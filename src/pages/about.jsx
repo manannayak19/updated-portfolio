@@ -6,7 +6,7 @@ import resume from "../assets/resume.pdf"
 
 const About = () => {
   return (
-    <div className="w-full overflow-x-hidden overflow-y-hidden">
+    <div className="w-full overflow-x-hidden min-h-screen">
       <div className="flex flex-col items-center justify-center px-4">
         <div className="">
           <img src={portfolio} alt="" />
