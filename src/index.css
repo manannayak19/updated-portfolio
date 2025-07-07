@@ -6,6 +6,12 @@
   --color-mint-500: oklch(0.72 0.11 178);
 }
 
+@font-face {
+  font-family: 'm6x11';
+  src: url('/public/m6x11.ttf') format('truetype');
+  font-display: swap;
+}
+
 /* :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;

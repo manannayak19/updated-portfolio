@@ -4,7 +4,7 @@ button {
   padding: 10px 30px 7px 30px;
   margin: 10px;
   font-size: 25px;
-  font-family: "m6x11";
+  /* font-family: "m6x11"; */
   border: 0;
   border-radius: 10px;
   box-shadow: 0px 5px black, 0px -5px black, 5px 0px black, -5px 0px black,
